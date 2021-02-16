@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="36" Path="/home/tmitsuhashi/bin/vivado_R3/UDP2Prob_test/UDP2Prob.xpr">
+<Project Version="7" Minor="36" Path="/home/tmitsuhashi/bin/vivado_R3/UDP2Prob/UDP2Prob.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="db50889b822c45b493a18164b9ae678c"/>
